@@ -16,7 +16,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 07.  | Tree buildings (hierarchies)  |
 | 08.  | Out of bounds detections, fixing compiled executions  |
 | 09.  | Encryption introductions, window functions checkups  |
-| 10.  | TBA  |
+| 10.  | Recursive array grouping  |
 | 11.  | TBA  |
 | 12.  | TBA  |
 | 13.  | TBA  |
