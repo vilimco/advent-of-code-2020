@@ -18,7 +18,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 09.  | Encryption introductions, window functions checkups  |
 | 10.  | Recursive array grouping  |
 | 11.  | 2-D array manipulations  |
-| 12.  | TBA  |
+| 12.  | Oriented coordinate movement (simulations for working with SVG paths)  |
 | 13.  | TBA  |
 | 14.  | TBA  |
 | 15.  | TBA  |
