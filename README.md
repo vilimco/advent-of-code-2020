@@ -20,7 +20,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 11.  | 2-D array manipulations  |
 | 12.  | Oriented coordinate movement (simulations for working with SVG paths)  |
 | 13.  | Multi-variable solutions   |
-| 14.  | TBA  |
+| 14.  | Binary manipulations  |
 | 15.  | TBA  |
 | 16.  | TBA  |
 | 17.  | TBA  |
