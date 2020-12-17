@@ -23,7 +23,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 14.  | Binary manipulations  |
 | 15.  | First appearance tracking  |
 | 16.  | Filtering and pattern matching  |
-| 17.  | TBA  |
+| 17.  | n-dimensional iterations  |
 | 18.  | TBA  |
 | 19.  | TBA  |
 | 20.  | TBA  |
