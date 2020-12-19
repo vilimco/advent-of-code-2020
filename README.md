@@ -25,7 +25,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 16.  | Filtering and pattern matching  |
 | 17.  | n-dimensional iterations  |
 | 18.  | Syntax analysis, programming language rules  |
-| 19.  | TBA  |
+| 19.  | Regular expressions  |
 | 20.  | TBA  |
 | 21.  | TBA  |
 | 22.  | TBA  |
