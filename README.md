@@ -27,7 +27,7 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 18.  | Syntax analysis, programming language rules  |
 | 19.  | Regular expressions  |
 | 20.  | Matrix operations  |
-| 21.  | TBA  |
+| 21.  | Sudoku solver algorithm applied on different input set, backtracking  |
 | 22.  | TBA  |
 | 23.  | TBA  |
 | 24.  | TBA  |
