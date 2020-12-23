@@ -29,6 +29,6 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 20.  | Matrix operations  |
 | 21.  | Sudoku solver algorithm applied on different input set, backtracking  |
 | 22.  | Recursion optimisation, no rerunning of states  |
-| 23.  | TBA  |
+| 23.  | Iteration optimisations, linked lists, hash maps  |
 | 24.  | TBA  |
 | 25.  | TBA  |
