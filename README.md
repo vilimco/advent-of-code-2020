@@ -30,5 +30,5 @@ I will add my guess for every day. My guess is also the main guiding thought beh
 | 21.  | Sudoku solver algorithm applied on different input set, backtracking  |
 | 22.  | Recursion optimisation, no rerunning of states  |
 | 23.  | Iteration optimisations, linked lists, hash maps  |
-| 24.  | TBA  |
-| 25.  | TBA  |
+| 24.  | Non rectangular grid navigation  |
+| 25.  | Encryption and decryption  |
